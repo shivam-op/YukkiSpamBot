@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shivam-op/yukkispambot)  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yukkibot/yukkixdeploy)  
 
 ## String Session
 No Requirement of API ID and API HASH
